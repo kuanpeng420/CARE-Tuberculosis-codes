@@ -1,2 +1,5 @@
 # CARE-Tuberculosis-codes
-R codes for Tuberculosis analysis 
+
+In this real-world epidemiological study, we used territory-wide vaccine record-linked electronic health data in Hong Kong and applied a case-control and a retrospective cohort study design to assess the risk of TB following the immunization of two worldwide used SAS-CoV-2 vaccination – the mRNA vaccine BNT162b2 and the inactivated virus vaccine CoronaVac. In the cohort study that involved 4.2 million citizens in Hong Kong, we found a significantly lower risk of TB among vaccine recipients compared to unvaccinated individuals, with a risk reduction of 49-58%. The results survived the robustness checks of multiple subgroups and sensitivity analyses. The case-control study showed a similar but a more conservative protective effect. 
+
+Our findings suggest that both the mRNA and the inactivated virus SARS-CoV-2 vaccine potentially offer a protective effect on TB, which is a global infectious threat secondary to COVID-19. Such observation suggests underlying immunological crosstalk and pathogeneses link between TB and COVID-19 that warrants further mechanistic investigation. Our findings should be known to the public and policymakers to enhance vaccine trust and strategic planning to control dual-threats from TB and COVID-19.
