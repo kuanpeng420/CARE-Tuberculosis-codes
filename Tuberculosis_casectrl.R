@@ -1,11 +1,3 @@
-################################################################################
-#Date: Aug 25 2021
-#Project: CARE Part 3 carditis-case control study
-#Author: Kuan Peng
-#Cross-checker: Rebecca Huang
-#Latest update: 30 Oct 2021
-################################################################################
-
 #Load required package 
   pacman::p_load(data.table,tidyverse,tableone,writexl,readxl,comorbidity,broom,survival,ggplot2,powerSurvEpi,elrm,lubridate)
 
